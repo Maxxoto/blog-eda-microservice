@@ -1,0 +1,5 @@
+- NodeJS
+- Kubernetes
+- Skaffold
+- ReactJS
+- Event Driven Architecture 
